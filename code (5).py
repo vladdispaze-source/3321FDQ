@@ -35,7 +35,7 @@ def is_admin(user_id: int) -> bool:
 
 DATABASE_URL = os.getenv(
     "DATABASE_URL",
-    "postgresql://bothost_db_66107fa917bb:-YwOsxG1alf19HpREdC2B5jucVKbhP5FnS-bt4klZFo@node1.pghost.ru:32858/bothost_db_66107fa917bb"
+    "postgresql://bothost_db_66107fa917bb:-YwOsxG1alf19HpREdC2B5jucVKbhP5FnS-bt4klZFo@node1.pghost.ru:32785/bothost_db_66107fa917bb"
 )
 # =================================================
 
