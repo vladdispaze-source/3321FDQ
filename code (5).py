@@ -24,7 +24,7 @@ except ModuleNotFoundError:
 
 # ================= КОНФИГУРАЦИЯ =================
 TOKEN = "8556222128:AAF7mK4XsW9kVbkee61f5DMqxr5dFkVcnZk"
-MANAGER_CHAT_ID = 8783731724
+MANAGER_CHAT_ID = 8720718266
 ADMINS = {MANAGER_CHAT_ID} # Можно добавить другие ID через запятую
 
 # ID КАРТИНКИ ДЛЯ ГЛАВНОГО МЕНЮ
